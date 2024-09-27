@@ -1,6 +1,5 @@
 # BMW Web Sitesi Projesi
 
-# Proje Açıklaması
 Bu proje, **BMW** markası için modern ve şık bir web sitesi tasarımıdır. Proje, **HTML**, **CSS** ve **SCSS** kullanılarak geliştirilmiştir ve bir otomobil markasının yüksek kaliteli estetik anlayışını yansıtacak şekilde tasarlanmıştır. Web sitesi, kullanıcıların BMW'nin araç modellerini keşfetmesine, teknik özellikleri ve görselleri incelemesine olanak tanır.
 
 # Kullanılan Teknolojiler
